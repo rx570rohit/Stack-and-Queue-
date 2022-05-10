@@ -9,10 +9,10 @@ namespace LinkedList
             StackByLL obj = new StackByLL();
 
             // insert Stack value
-            obj.push(11);
-            obj.push(22);
-            obj.push(33);
-            obj.push(44);
+            obj.push(56);
+            obj.push(30);
+            obj.push(70);
+            obj.IsEmpty();
         }
     }
 }
